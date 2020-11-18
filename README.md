@@ -11,9 +11,8 @@ Computational processing of text messages can be a challenging problem when we w
 This repository includes 
 
 * instructions from Professor Jackie Cheung,
-
+* corpus,
 * our codes, and
-
 * our final report.
 
 The codes are composed of the following:
